@@ -1,0 +1,205 @@
+[
+    {
+      "id": 1,
+      "nom": "Shinix Residences Les Doges,",
+      "addresse": "22 rue du Petit-Clos Saint-Marc 14000 Caen,",
+      "lien": "https://www.sphinx-residences.fr/etudiants/nos-residences/tempologis-memorial/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image02.jpg"
+    },
+    {
+      "id": 2,
+      "nom": "Shinix Residences Les Germes de Blé,",
+      "addresse": "13 rue de la Grâce de Dieu 14610 Epron,",
+      "lien": "https://www.sphinx-residences.fr/etudiants/nos-residences/les-doges/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image01.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "Residence Thot,",
+      "addresse": "64-66 rue Rné Duchez 14000 Caen,",
+      "lien": "https://www.sphinx-residences.fr/etudiants/nos-residences/les-germes-de-ble/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image04.jpg"
+    },
+    {
+      "id": 4,
+      "nom": "La Maison de l'intérieur,",
+      "addresse": "1 rue Pierre et Marie Curie 14610 Epron,",
+      "lien": "https://www.partelios.fr/residence/residence_etudiante_thot_caen/2",
+      "image": "http://cdn.mci.karkowin.com/logements/Image03.jpg"
+    },
+    {
+      "id": 5,
+      "nom": "Barycentre,",
+      "addresse": "6 rue Anton Tchekhov 14123 Ifs,",
+      "lien": "https://www.partelios.fr/residence/maison_de_l-ingenieur_epron/3",
+      "image": "http://cdn.mci.karkowin.com/logements/Image06.jpg"
+    },
+    {
+      "id": 6,
+      "nom": "Nemea Stanford,",
+      "addresse": "10 rue Professeur Joseph Rousselot 14000 Caen,",
+      "lien": "https://www.partelios.fr/residence/residence_etudiante_barycentre_ifs/4",
+      "image": "http://cdn.mci.karkowin.com/logements/Image05.jpg"
+    },
+    {
+      "id": 7,
+      "nom": "Nemea Appart'Etud Caen Beaumois,",
+      "addresse": "28 rue du clos Beaumois 14000 Caen,",
+      "lien": "https://www.nemea-residence-etudiante.com/france/basse-normandie/calvados/caen/caen-beaumois/residence-149.html",
+      "image": "http://cdn.mci.karkowin.com/logements/Image07.jpg"
+    },
+    {
+      "id": 8,
+      "nom": "Nemea Appart'Etud Caen Campus 1,",
+      "addresse": "109-111 rue de la Délivrande 14000 Caen,",
+      "lien": "https://www.nemea-residence-etudiante.com/france/basse-normandie/calvados/caen/caen-campus-1/residence-177.html",
+      "image": "http://cdn.mci.karkowin.com/logements/Image08.jpg"
+    },
+    {
+      "id": 9,
+      "nom": "Les Estudines Caen Côte de Nacre ,",
+      "addresse": "15 Rue Jean-Baptiste Colbert 14000 Caen,",
+      "lien": "https://www.nemea-residence-etudiante.com/france/basse-normandie/calvados/caen/caen-campus-1/residence-177.html",
+      "image": "http://cdn.mci.karkowin.com/logements/Image10.jpg"
+    },
+    {
+      "id": 10,
+      "nom": "Les Estudines Le Clos Beamois,",
+      "addresse": "22-24 rue du clos Beaumois 14000 Caen,",
+      "lien": "https://www.estudines.com/residence-logement-etudiant-caen-39-355.html",
+      "image": "http://cdn.mci.karkowin.com/logements/Image09.jpg"
+    },
+    {
+      "id": 11,
+      "nom": "Les Temporis,",
+      "addresse": "2 rue du Petit-Clos Saint-Marc 14000 Caen,",
+      "lien": "https://www.estudines.com/residence-logement-etudiant-caen-39-205.html",
+      "image": "http://cdn.mci.karkowin.com/logements/Image11.jpg"
+    },
+    {
+      "id": 12,
+      "nom": "Suitetudes la Pommeraie ,",
+      "addresse": "14 rue de la girafe 14000 Caen,",
+      "lien": "https://lestemporis.com/residence-les-temporis-location-caen",
+      "image": "http://cdn.mci.karkowin.com/logements/Image12.jpg"
+    },
+    {
+      "id": 13,
+      "nom": "Kley Caen ,",
+      "addresse": "49 Avenue de la Côte de Nacre 14000 Caen,",
+      "lien": "https://www.uxco.com/la-pommeraie",
+      "image": "http://cdn.mci.karkowin.com/logements/Image13.jpg"
+    },
+    {
+      "id": 14,
+      "nom": "Résidence Twenty Campus Caen ,",
+      "addresse": "9 Avenue de Tsukuba 14200 Hérouville Saint-Clair ,",
+      "lien": "https://www.kley.fr/residence-etudiante/caen/kley-caen",
+      "image": "http://cdn.mci.karkowin.com/logements/Image14.jpg"
+    },
+    {
+      "id": 15,
+      "nom": "Euroresidence ,",
+      "addresse": "3 rue du Professeur Joseph Rousselot 14000 Caen  ,",
+      "lien": "https://www.twenty-campus.com/fr/residences/twenty-campus-herouville-saint-clair/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image15.webp"
+    },
+    {
+      "id": 16,
+      "nom": "CAP Affaires Appart City ,",
+      "addresse": "1 Rue Claude Bloch 14000 Caen ,",
+      "lien": "https://caennaise.com/residence-etudiants/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image16.jpg"
+    },
+    {
+      "id": 17,
+      "nom": "Résidence Pauseome ,",
+      "addresse": "4 Avenue Professeur André Morice 14000 Caen ,",
+      "lien": "https://www.appartcity.com/fr/offre-etudiante.html",
+      "image": "http://cdn.mci.karkowin.com/logements/Image17.jpg"
+    },
+    {
+      "id": 18,
+      "nom": "Résidence Adagio ,",
+      "addresse": "1 Quai Eugene Meslin 14000 Caen ,",
+      "lien": "http://www.pauseome-hotel.fr/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image18.jpg"
+    },
+    {
+      "id": 19,
+      "nom": "Les Temporis ,",
+      "addresse": "7 Basse Rue 14760 Bretteville-sur-Odon ,",
+      "lien": "https://www.adagio-city.com/fr/offers/student.shtml",
+      "image": "http://cdn.mci.karkowin.com/logements/Image19.jpg"
+    },
+    {
+      "id": 20,
+      "nom": "Cité côte de Nacre ,",
+      "addresse": "2 BD Maréchal Juin BP 85153 14070 Caen cedex 5,",
+      "lien": "https://lestemporis.com/hebergement/studio-bretteville-odon",
+      "image": "http://cdn.mci.karkowin.com/logements/Image20.jpg"
+    },
+    {
+      "id": 21,
+      "nom": "Résidence Edmond Bacot ,",
+      "addresse": "10 Boulevard Mal Juin 14000 Caen ,",
+      "lien": "https://www.crous-normandie.fr/logement/cite-cote-de-nacre-secteur-de-caen/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image21.jpg"
+    },
+    {
+      "id": 22,
+      "nom": "Résidence Lorge Accueil Cité Campus 1,",
+      "addresse": "Rue Neuve Bourg l'Abbé 14000 Caen ,",
+      "lien": "https://www.crous-normandie.fr/logement/residence-bacot-secteur-de-caen/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image22.jpg"
+    },
+    {
+      "id": 23,
+      "nom": "Cité Campus 1,",
+      "addresse": "23 Avenue de Bruxelles 14000 Caen ,",
+      "lien": "https://www.crous-normandie.fr/logement/cite-universitaire-campus-1-secteur-de-caen/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image23.jpg"
+    },
+    {
+      "id": 24,
+      "nom": "Cité de Lebisey ,",
+      "addresse": "114-116 rue de Lebisey 14000 Caen ,",
+      "lien": "https://www.crous-normandie.fr/logement/cite-universitaire-campus-1-secteur-de-caen/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image24.webp"
+    },
+    {
+      "id": 25,
+      "nom": "Résidence Erik Satie,",
+      "addresse": "7-9-10 Rue Recteur Daure 14000 Caen ,",
+      "lien": "https://www.crous-normandie.fr/logement/cite-de-lebisey-secteur-de-caen/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image25.jpg"
+    },
+    {
+      "id": 26,
+      "nom": "Résidence Jean Gremillon Crous,",
+      "addresse": "Avenue de la Grande Cavée 14202 Hérouville-Saint-Clair,",
+      "lien": "https://www.crous-normandie.fr/logement/residence-erik-satie-lebisey-secteur-de-caen/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image26.jpg"
+    },
+    {
+      "id": 27,
+      "nom": "Résidence Flora Tristan Crous ,",
+      "addresse": "Avenue de la Grande Cavée 14202 Hérouville-Saint-Clair,",
+      "lien": "https://www.crous-normandie.fr/logement/cite-gremillon-secteur-dherouville-saint-clair/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image27.jpg"
+    },
+    {
+      "id": 28,
+      "nom": "Résidence Breton Crous ,",
+      "addresse": "Avenue de la Grande Cavée 14202 Hérouville-Saint-Clair,",
+      "lien": "https://www.crous-normandie.fr/logement/residence-tristan-secteur-dherouville-saint-clair/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image28.webp"
+    },
+    {
+      "id": 29,
+      "nom": "Résidence Robert Réme,",
+      "addresse": "68 rue Eustache Restout 14000 Caen ,",
+      "lien": "https://www.crous-normandie.fr/logement/residence-breton-secteur-dherouville-saint-clair/",
+      "image": "http://cdn.mci.karkowin.com/logements/Image29.jpg"
+    }
+   ]

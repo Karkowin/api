@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "accompagnement": "Aides conseil Régional,",
+      "description": "Bourse d'apprentissage ,",
+      "lien": "https://www.contratdapprentissage.fr/bourse-apprentissage.php",
+      "image": "http://cdn.mci.karkowin.com/accompagnement/region.png"
+    },
+    {
+      "id": 2,
+      "accompagnement": "Aides conseil Régional,",
+      "description": "Exonération Impot sur le revenue,",
+      "lien": "https://www.impots.gouv.fr/particulier/salaires-et-assimiles",
+      "image": "http://cdn.mci.karkowin.com/accompagnement/region.png"
+    },
+    {
+      "id": 3,
+      "accompagnement": "Aides SNCF,",
+      "description": "Carte Jeune,",
+      "lien": "https://www.sncf.com/fr/offres-voyageurs/cartes-tarifs-grandes-lignes/eleves-apprentis",
+      "image": "http://cdn.mci.karkowin.com/accompagnement/sncf.png"
+    }
+   ]

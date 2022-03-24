@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "aide": "Aides Action Logement,",
+      "description": "Garantie Loca-Pass,",
+      "lien": "https://www.actionlogement.fr/l-avance-loca-pass",
+      "image": "http://cdn.mci.karkowin.com/aides/actionslogement.png"
+    },
+    {
+      "id": 2,
+      "aide": "Aides Action Logement,",
+      "description": "Garantie Visale,",
+      "lien": "https://www.actionlogement.fr/la-garantie-visale",
+      "image": "http://cdn.mci.karkowin.com/aides/actionslogement.png"
+    },
+    {
+      "id": 3,
+      "aide": "Aides Action Logement,",
+      "description": "Aide Mobili Jeune,",
+      "lien": "https://www.actionlogement.fr/l-aide-mobili-jeune",
+      "image": "http://cdn.mci.karkowin.com/aides/actionslogement.png"
+    },
+    {
+      "id": 4,
+      "aide": "Aides Action Logement,",
+      "description": "Aide Mobili Pass,",
+      "lien": "https://www.actionlogement.fr/financement-mobilite",
+      "image": "http://cdn.mci.karkowin.com/aides/actionslogement.png"
+    },
+    {
+      "id": 5,
+      "aide": "Aides Action Logement,",
+      "description": "Aide a la Mobilité professionnelle,",
+      "lien": "https://www.actionlogement.fr/aide-mon-job-mon-logement",
+      "image": "http://cdn.mci.karkowin.com/aides/actionslogement.png"
+    },
+    {
+      "id": 6,
+      "aide": "Aides CAF,",
+      "description": "APL / ALF / ALS,",
+      "lien": "https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement#/stateaccueil",
+      "image": "http://cdn.mci.karkowin.com/aides/CAF.png"
+    },
+    {
+      "id": 7,
+      "aide": "Aides CAF,",
+      "description": "Prime d'activité,",
+      "lien": "https://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/solidarite-et-insertion/la-prime-d-activite",
+      "image": "http://cdn.mci.karkowin.com/aides/CAF.png"
+    },
+    {
+      "id": 8,
+      "aide": "Aide CFA,",
+      "description": "Carte d'étudiant des Métiers,",
+      "lien": "https://travail-emploi.gouv.fr/IMG/pdf/Carte_etudiant_des_metiers.pdf",
+      "image": "http://cdn.mci.karkowin.com/aides/cfa.png"
+    },
+    {
+      "id": 9,
+      "aide": "Aide de l'Etat,",
+      "description": "500€ pour le permis de conduire,",
+      "lien": "https://www.alternance.emploi.gouv.fr/cfa-aide-au-financement-du-permis-de-conduire-b#:~:text=Il%20s'agit%20d'une,%C3%80%20noter%20%3A&text=elle%20n'est%20pas%20prise,le%20b%C3%A9n%C3%A9fice%20des%20prestations%20sociales.",
+      "image": "http://cdn.mci.karkowin.com/aides/etat.png"
+    },
+    {
+      "id": 10,
+      "aide": "Aide de l'Etat,",
+      "description": "Prêt à 1€/Jour,",
+      "lien": "https://www.service-public.fr/particuliers/vosdroits/F13609",
+      "image": "http://cdn.mci.karkowin.com/aides/etat.png"
+    },
+    {
+      "id": 11,
+      "aide": "Aide de l'Etat,",
+      "description": "Prêt Etudiant OSEO,",
+      "lien": "https://www.service-public.fr/particuliers/vosdroits/F986",
+      "image": "http://cdn.mci.karkowin.com/aides/etat.png"
+    },
+    {
+      "id": 12,
+      "aide": "Aide de l'Etat,",
+      "description": "Exonération Impot sur le revenue,",
+      "lien": "https://www.impots.gouv.fr/particulier/salaires-et-assimiles",
+      "image": "http://cdn.mci.karkowin.com/aides/etat.png"
+    }
+   ]

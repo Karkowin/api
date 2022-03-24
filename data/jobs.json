@@ -1,0 +1,380 @@
+[
+    {
+      "id": 1,
+      "entreprise": "E.Leclerc,",
+      "poste": "Hôte(sse) de caisse ou accueil / Employé au drive,",
+      "lien": "https://www.recrutement.leclerc/",
+      "image": "http://cdn.mci.karkowin.com/jobs/leclerc.png"
+    },
+    {
+      "id": 2,
+      "entreprise": "Carrefour,",
+      "poste": "Hôte(sse) de caisse ou accueil / Employé au drive,",
+      "lien": "https://recrute.carrefour.fr/je-cherche/je-cherche-un-job-etudiant",
+      "image": "http://cdn.mci.karkowin.com/jobs/carrefour.png"
+    },
+    {
+      "id": 3,
+      "entreprise": "Super U,",
+      "poste": "Hôte(sse) de caisse ou accueil / Employé au drive,",
+      "lien": "https://www.u-emploi.com",
+      "image": "http://cdn.mci.karkowin.com/jobs/superu.png"
+    },
+    {
+      "id": 4,
+      "entreprise": "LIDL,",
+      "poste": "Employé Polyvalent,",
+      "lien": "https://emplois.lidl.fr/offres-d-emploi",
+      "image": "http://cdn.mci.karkowin.com/jobs/lidl.png"
+    },
+    {
+      "id": 5,
+      "entreprise": "Monoprix,",
+      "poste": "Hôte(sse) de caisse ou accueil / Employé au drive,",
+      "lien": "https://recrutement.monoprix.fr/fr/annonces",
+      "image": "http://cdn.mci.karkowin.com/jobs/monoprix.png"
+    },
+    {
+      "id": 6,
+      "entreprise": "Castorama,",
+      "poste": "Equipier Logistique,",
+      "lien": "https://emploi.castorama.fr/toutes-nos-offres/",
+      "image": "http://cdn.mci.karkowin.com/jobs/castorama.png"
+    },
+    {
+      "id": 7,
+      "entreprise": "Brico Dépot,",
+      "poste": "Vendeur/se,",
+      "lien": "https://recrute.bricodepot.fr/institutional/nos-offres/",
+      "image": "http://cdn.mci.karkowin.com/jobs/bricodepot.png"
+    },
+    {
+      "id": 8,
+      "entreprise": "Bricoman,",
+      "poste": "Vendeur/se,",
+      "lien": "https://recrute.bricoman.fr/offres-emploi-directeur-manager-responsable-rayon-conseiller-technique-bricoman/",
+      "image": "http://cdn.mci.karkowin.com/jobs/bricoman.png"
+    },
+    {
+      "id": 9,
+      "entreprise": "Leroy Merlin,",
+      "poste": "Vendeur, Employé logistique,",
+      "lien": "https://recrute.leroymerlin.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/leroy.png"
+    },
+    {
+      "id": 10,
+      "entreprise": "Decathlon,",
+      "poste": "Vendeur / Hôtesse,",
+      "lien": "https://recrutement.decathlon.fr/etudiants/",
+      "image": "http://cdn.mci.karkowin.com/jobs/decathlon.png"
+    },
+    {
+      "id": 11,
+      "entreprise": "Interior's,",
+      "poste": "Vendeur/se,",
+      "lien": "https://careers.interiors.fr/nos-offres/",
+      "image": "http://cdn.mci.karkowin.com/jobs/interiors.png"
+    },
+    {
+      "id": 12,
+      "entreprise": "Cultura,",
+      "poste": "Vendeur/se,",
+      "lien": "https://recrutement.cultura.com/nous-rejoindre/nos-offres/#page-search---index",
+      "image": "http://cdn.mci.karkowin.com/jobs/cultura.png"
+    },
+    {
+      "id": 13,
+      "entreprise": "Zodio,",
+      "poste": "Vendeur/se,",
+      "lien": "https://recrutement.zodio.fr/jobs",
+      "image": "http://cdn.mci.karkowin.com/jobs/zodio.png"
+    },
+    {
+      "id": 14,
+      "entreprise": "PicWicToys,",
+      "poste": "Vendeur/se,",
+      "lien": "https://recrute-picwictoys.profils.org/accueil.aspx?LCID=1036",
+      "image": "http://cdn.mci.karkowin.com/jobs/picwictoys.png"
+    },
+    {
+      "id": 15,
+      "entreprise": "Boulanger,",
+      "poste": "Conseiller service client / Equipier client,",
+      "lien": "https://www.boulanger.com/evenement/emploi-espace-jeune",
+      "image": "http://cdn.mci.karkowin.com/jobs/boulanger.png"
+    },
+    {
+      "id": 16,
+      "entreprise": "Micromania,",
+      "poste": "Vendeur/se,",
+      "lien": "https://micromaniazing.softy.pro/offres/1?keyWord[]=&localisation=%22%22",
+      "image": "http://cdn.mci.karkowin.com/jobs/micromania.png"
+    },
+    {
+      "id": 17,
+      "entreprise": "Escape Yourself Caen,",
+      "poste": "Game Master,",
+      "lien": "https://www.escapeyourselfcaen.fr/",
+      "image": "https://cdn.mci.karkowin.com/jobs/escapeyourselfcaen.png"
+    },
+    {
+      "id": 18,
+      "entreprise": "Ikea,",
+      "poste": "Vendeur/se,",
+      "lien": "https://www.ikea.com/",
+      "image": "http://cdn.mci.karkowin.com/jobs/ikea.png"
+    },
+    {
+      "id": 19,
+      "entreprise": "Truffaut,",
+      "poste": "Vendeur/se,",
+      "lien": "https://www.recrutement.truffaut.com/postuler/",
+      "image": "http://cdn.mci.karkowin.com/jobs/truffault.png"
+    },
+    {
+      "id": 20,
+      "entreprise": "Randstad,",
+      "poste": "Intérim,",
+      "lien": "https://www.randstad.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/randstad.png"
+    },
+    {
+      "id": 21,
+      "entreprise": "Manpower,",
+      "poste": "Intérim,",
+      "lien": "https://www.manpower.fr/candidats/nos-conseils-emploi/nos-conseils-si-vous-etes/etudiant",
+      "image": "http://cdn.mci.karkowin.com/jobs/manpower.png"
+    },
+    {
+      "id": 22,
+      "entreprise": "Adecco,",
+      "poste": "Intérim,",
+      "lien": "https://www.adecco.fr/resultats-offres-emploi/m-etudiant/",
+      "image": "http://cdn.mci.karkowin.com/jobs/adecco.png"
+    },
+    {
+      "id": 23,
+      "entreprise": "Supplay,",
+      "poste": "Intérim,",
+      "lien": "https://www.supplay.fr/annonces-interim",
+      "image": "http://cdn.mci.karkowin.com/jobs/supplay.png"
+    },
+    {
+      "id": 24,
+      "entreprise": "Buffalo Grill,",
+      "poste": "Serveur Brasserie / Commis de cuisine,",
+      "lien": "https://carrieres.buffalo-grill.fr/fr/annonces",
+      "image": "http://cdn.mci.karkowin.com/jobs/buffalo.png"
+    },
+    {
+      "id": 25,
+      "entreprise": "Mcdonald's,",
+      "poste": "Equipier Polyvalent,",
+      "lien": "https://www.mcdonalds-recrute.fr/nous-rejoindre/etudiants",
+      "image": "http://cdn.mci.karkowin.com/jobs/mcdo.png"
+    },
+    {
+      "id": 26,
+      "entreprise": "Burger King,",
+      "poste": "Equipier / Agent d'accueil,",
+      "lien": "https://emploi.burgerking.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/burgerking.png"
+    },
+    {
+      "id": 27,
+      "entreprise": "Domino's Pizza,",
+      "poste": "Livreur, Equipier Polyvant restauration rapide, Hôte/sse magasin,",
+      "lien": "https://carrieres.dominos.fr/les-profils-recherches",
+      "image": "http://cdn.mci.karkowin.com/jobs/dominos.png"
+    },
+    {
+      "id": 28,
+      "entreprise": "La Boîte à Pizza,",
+      "poste": "Livreur, Equipier Polyvant restauration rapide, Hôte/sse magasin,",
+      "lien": "https://www.laboiteapizza.com/recruitment",
+      "image": "http://cdn.mci.karkowin.com/jobs/boitepizza.png"
+    },
+    {
+      "id": 29,
+      "entreprise": "KFC,",
+      "poste": "Employé Polyvalent,",
+      "lien": "https://www.kfc.fr/error/page-not-found",
+      "image": "http://cdn.mci.karkowin.com/jobs/kfc.png"
+    },
+    {
+      "id": 30,
+      "entreprise": "SushiShop,",
+      "poste": "Equipier Livreur ,",
+      "lien": "https://jobs.sushishop.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/sushishop.png"
+    },
+    {
+      "id": 31,
+      "entreprise": "Planete Sushi,",
+      "poste": "Livreur/se,",
+      "lien": "https://jobetudiant.net/job/chez/planetsushi.php",
+      "image": "http://cdn.mci.karkowin.com/jobs/sushi.png"
+    },
+    {
+      "id": 32,
+      "entreprise": "Barrière,",
+      "poste": "Animateur Club enfants,",
+      "lien": "https://www.barriere-recrute.com/accueil.aspx?LCID=1036",
+      "image": "http://cdn.mci.karkowin.com/jobs/barriere.png"
+    },
+    {
+      "id": 33,
+      "entreprise": "Barrière,",
+      "poste": "Bagagiste tournant,",
+      "lien": "https://www.barriere-recrute.com/accueil.aspx?LCID=1036",
+      "image": "http://cdn.mci.karkowin.com/jobs/barriere.png"
+    },
+    {
+      "id": 34,
+      "entreprise": "Normandie Challenge,",
+      "poste": "Animateur Sportif,",
+      "lien": "https://www.normandie-challenge.com/",
+      "image": "http://cdn.mci.karkowin.com/jobs/normandieaventure.png"
+    },
+    {
+      "id": 35,
+      "entreprise": "Casino Barrrière,",
+      "poste": "Plongeur,",
+      "lien": "https://www.barriere-recrute.com/offre-de-emploi/liste-offres.aspx",
+      "image": "http://cdn.mci.karkowin.com/jobs/barrierecasino.png"
+    },
+    {
+      "id": 36,
+      "entreprise": "Casino Barrrière,",
+      "poste": "Croupier débutant,",
+      "lien": "https://www.barriere-recrute.com/offre-de-emploi/liste-offres.aspx",
+      "image": "http://cdn.mci.karkowin.com/jobs/barrierecasino.png"
+    },
+    {
+      "id": 37,
+      "entreprise": "Trinity,",
+      "poste": "Distributeur de prospectus / Street marketing,",
+      "lien": "https://www.agencetrinity.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/trinity.png"
+    },
+    {
+      "id": 38,
+      "entreprise": "Tendance Hotesses,",
+      "poste": "Hôte(sse) de caisse ou accueil,",
+      "lien": "https://www.tendance-hotesses.com/?page=Emploi",
+      "image": "https://cdn.mci.karkowin.com/jobs/tendance.png"
+    },
+    {
+      "id": 39,
+      "entreprise": "Birdies,",
+      "poste": "Accueil physique et téléphonique,",
+      "lien": "https://birdies-accueil.com/recrutement.html",
+      "image": "http://cdn.mci.karkowin.com/jobs/birdies.png"
+    },
+    {
+      "id": 40,
+      "entreprise": "Animaction,",
+      "poste": "Animation de vente,",
+      "lien": "https://www.anim-action.fr/",
+      "image": "https://cdn.mci.karkowin.com/jobs/animaction.png"
+    },
+    {
+      "id": 41,
+      "entreprise": "Genilie,",
+      "poste": "Hôte(sse) d'accueil / Distribution de flyers,",
+      "lien": "https://www.genilie.fr/genilie-recrute",
+      "image": "https://cdn.mci.karkowin.com/jobs/genilie.png"
+    },
+    {
+      "id": 42,
+      "entreprise": "CharlesTown,",
+      "poste": "Hôte(sse),",
+      "lien": "https://charlestown.nous-recrutons.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/charlestown.png"
+    },
+    {
+      "id": 43,
+      "entreprise": "TechSell,",
+      "poste": "Conseiller de vente,",
+      "lien": "https://jobs.techsellgroup.fr/fr/annonces",
+      "image": "http://cdn.mci.karkowin.com/jobs/techsell.png"
+    },
+    {
+      "id": 44,
+      "entreprise": "City One,",
+      "poste": "Animatrice,",
+      "lien": "https://www.cityone.fr/recrutement-formation.php",
+      "image": "https://cdn.mci.karkowin.com/jobs/cityone.png"
+    },
+    {
+      "id": 45,
+      "entreprise": "O2 Home Services,",
+      "poste": "Garde d'enfants,",
+      "lien": "https://www.o2recrute.fr/",
+      "image": "http://cdn.mci.karkowin.com/jobs/o2.png"
+    },
+    {
+      "id": 46,
+      "entreprise": "Yoopala,",
+      "poste": "Garde d'enfants,",
+      "lien": "https://www.yoopala.com/emploi-job/garde-enfant/14-calvados",
+      "image": "http://cdn.mci.karkowin.com/jobs/yoopala.png"
+    },
+    {
+      "id": 47,
+      "entreprise": "KangourouKids,",
+      "poste": "Baby sitting / Aide aux devoirs,",
+      "lien": "https://emploi.kangouroukids.fr/recherche-offre",
+      "image": "http://cdn.mci.karkowin.com/jobs/kangouroukids.png"
+    },
+    {
+      "id": 48,
+      "entreprise": "Complétude,",
+      "poste": "Professeur en soutien scolaire,",
+      "lien": "https://www.completude.com/donner-des-cours/",
+      "image": "http://cdn.mci.karkowin.com/jobs/completude.png"
+    },
+    {
+      "id": 49,
+      "entreprise": "Acadomia,",
+      "poste": "Professeur en soutien scolaire,",
+      "lien": "https://www.acadomia.fr/enseignant.html",
+      "image": "http://cdn.mci.karkowin.com/jobs/acadomia.png"
+    },
+    {
+      "id": 50,
+      "entreprise": "Vos Cours Particuliers,",
+      "poste": "Professeur en soutien scolaire,",
+      "lien": "https://www.voscours.fr/donner-cours-particuliers",
+      "image": "http://cdn.mci.karkowin.com/jobs/voscours.png"
+    },
+    {
+      "id": 51,
+      "entreprise": "Speaking Agency,",
+      "poste": "Baby sitting / Proffeseur d'anglais,",
+      "lien": "https://www.momji.fr/jobs/",
+      "image": "http://cdn.mci.karkowin.com/jobs/speakingagency.png"
+    },
+    {
+      "id": 52,
+      "entreprise": "Superprof,",
+      "poste": "Professeur en soutien scolaire,",
+      "lien": "https://www.superprof.fr/donner-cours-particuliers/",
+      "image": "https://cdn.mci.karkowin.com/jobs/superprof.png"
+    },
+    {
+      "id": 53,
+      "entreprise": "UniCaen,",
+      "poste": "Accueil / Assistant,",
+      "lien": "https://www.unicaen.fr/universite/travailler-a-luniversite/etudiants/emplois-etudiants/",
+      "image": "http://cdn.mci.karkowin.com/jobs/unicaen.png"
+    },
+    {
+      "id": 54,
+      "entreprise": "Optimix,",
+      "poste": "Enquêteur Vacataire,",
+      "lien": "https://optimix.fr/",
+      "image": ""
+    }
+   ]
