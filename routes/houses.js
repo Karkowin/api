@@ -10,10 +10,8 @@ const router = express.Router();
 
 // Get informations
 
-router.get("/", [auth, viewer], (req, res) => {
-  res.send({
-    selectedData,
-  });
+router.get("/", (req, res) => {
+  res.send(JSON.stringify(selectedData));
 });
 
 // Add informations

@@ -4,11 +4,18 @@ var cors = require("cors");
 
 // Setup the express server
 const app = express();
-const port = 3000;
+const port = 8080;
 
 // Import middlewares into express
 app.use(express.json({ limit: "100mb" }));
-app.use(cors());
+app.use(
+  cors({
+    origin: true,
+    credentials: true,
+    preflightContinue: true,
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
+  })
+);
 
 // Import routes
 const authRouter = require("./routes/auth");
@@ -28,4 +35,3 @@ app.use("/accompany", accompanyRouter);
 app.listen(port, () => {
   console.log(`Listening on port ${port}...`);
 });
-

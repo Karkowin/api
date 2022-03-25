@@ -11,9 +11,7 @@ const router = express.Router();
 // Get informations
 
 router.get("/", (req, res) => {
-  res.send({
-    selectedData,
-  });
+  res.send(JSON.stringify(selectedData));
 });
 
 // Add informations
